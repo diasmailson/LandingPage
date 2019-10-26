@@ -1,0 +1,70 @@
+body{
+	font-family: 'Open Sans', sans-serif;;
+	font-size: 20px;
+	background-color: rgb(240,240,240);
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 50px;
+	color: #D13333;
+	font-weight: lighter;
+}
+
+h2{
+	font-weight: lighter;
+
+}
+
+
+a{
+	font-size: 25px;
+	color: white;
+}
+
+a:hover{
+	text-decoration: none;
+	color: yellow;
+}
+
+#header{
+	text-align: center;
+	background-image: url("https://jornaldoempreendedor.com.br/wp-content/uploads/2017/10/Startup.jpg");
+	background-size: cover;
+	padding: 150px;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+}
+
+#header h1{
+	color: white;
+	font-size: 50px;
+}
+
+#header p{
+	color: white;
+	font-size: 30px;
+	font-weight: lighter; 	
+}
+
+#footer{
+	padding: 30px;
+	background-color: rgb(30,30,30);
+	color: lightgrey;
+	text-align: center;
+}
+
+
+#footer a{
+	color: lightgrey;
+	font-size: 15px;
+}
+
+#footer a:hover{
+	color: white;
+}
+
+.card{
+	padding: 50px;
+	font-weight: lighter;
+}
